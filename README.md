@@ -54,6 +54,22 @@ I hope I can build a Fintech non tech learners community and more non tech learn
 Thanks for dropping by to visit this website.
 
 
+
+- **Related Articles/ Videos to create Github Pages Website**
+
+
+    - [Create Your First GitHub Pages Website](https://www.youtube.com/watch?v=BA_c3bGQXlQ)
+  
+  
+    - [Learning GitHub - How to Write MarkDown](https://www.youtube.com/watch?v=eJojC3lSkwg)
+    
+    
+    - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+    
+- **Videos on DevOps Related Topics**
+
+    - [What is DevOps?](https://www.youtube.com/watch?v=aFWi8ToAjpU)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
