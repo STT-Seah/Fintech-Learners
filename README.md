@@ -73,6 +73,8 @@ Thanks for dropping by to visit this website.
     
     - [DevOps CI/CD Explained in 100 Seconds](https://www.youtube.com/watch?v=scEDHsr3APg)
     
+    - [Cloud Computing Defined](https://www.youtube.com/watch?v=ZnGzxV_dQeg)
+    
     - [Containerization Explained](https://www.youtube.com/watch?v=0qotVMX-J5s)
     
 
