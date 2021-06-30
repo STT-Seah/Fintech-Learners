@@ -49,7 +49,7 @@ This website will showcase videos that I find useful and suitable for non tech t
 
 If I can do it, I believe the rest of the non tech can do it too, just give yourself more time to practice.
 
-I hope I can build a Fintech non tech learners community and more non tech learners able to create wonderful projects and share master pieces in Github.
+I hope I can build a Fintech non tech learners community and more non tech learners able to create wonderful projects and share their master pieces in Github.
 
 Thanks for dropping by to visit this website.
 
