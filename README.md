@@ -75,6 +75,8 @@ Thanks for dropping by to visit this website.
     
 
     - [What is DevOps?](https://www.youtube.com/watch?v=aFWi8ToAjpU)
+   
+    - [What is DevOps? - In Simple English](https://www.youtube.com/watch?v=_I94-tJlovg)
     
     - [DevOps CI/CD Explained in 100 Seconds](https://www.youtube.com/watch?v=scEDHsr3APg)
     
