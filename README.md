@@ -71,7 +71,8 @@ Thanks for dropping by to visit this website.
 
 
      ![image of DevOps](https://github.com/u1i/devops-course/blob/master/resources/overview02.png)
-
+     
+     ![image of Wonderwoman](https://m.media-amazon.com/images/M/MV5BMTYzODQzYjQtNTczNC00MzZhLTg1ZWYtZDUxYmQ3ZTY4NzA1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg)
 
     - [What is DevOps?](https://www.youtube.com/watch?v=aFWi8ToAjpU)
     
