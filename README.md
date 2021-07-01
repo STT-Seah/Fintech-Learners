@@ -69,6 +69,10 @@ Thanks for dropping by to visit this website.
     
 - **Videos on DevOps Related Topics**
 
+
+     ![Image of devop](https://github.com/u1i/devops-course/blob/master/resources/overview02.png)
+
+
     - [What is DevOps?](https://www.youtube.com/watch?v=aFWi8ToAjpU)
     
     - [DevOps CI/CD Explained in 100 Seconds](https://www.youtube.com/watch?v=scEDHsr3APg)
