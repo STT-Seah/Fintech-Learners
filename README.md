@@ -1,7 +1,5 @@
 ## Welcome to Fintech Learners Pages For Non Tech
 
-Welcome to Fintech Learners Pages For Non Tech
-
 This is my first time creating this website via Github. 
 
 I am a non tech learner. 
