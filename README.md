@@ -67,6 +67,8 @@ Thanks for dropping by to visit this website.
     - [Scratch: I LOVE YOU Clicker Game](https://scratch.mit.edu/projects/518970274)
 
     - [1st cs50 Web Assignment](https://cs50xcoursewebsite--sttseah.repl.co/)
+    
+    - [Q2 Show and Tell Github Actions CI/CD](https://github.com/STT-Seah/mygitactions)
    
     
 
