@@ -23,7 +23,6 @@ I hope I can build a Fintech non tech learners community and more non tech learn
 Thanks for dropping by to visit this website.
 
 
-
   - **Related Articles/ Videos to create Github Pages Website**
 
 
@@ -34,17 +33,15 @@ Thanks for dropping by to visit this website.
     
     
     - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+      
    
-   
-   
-    **Videos to create Github Actions CI/CD Q2 Show & Tell**
+ - **Videos to create Github Actions CI/CD Q2 Show & Tell**
+    
+    
     - [Github Actions CI/CD - Everything you need to know to get started](https://www.youtube.com/watch?v=mFFXuXjVgkU)
     
-    
-    
-    
-    
-    
+      
+        
     
 - **Videos on DevOps Related Topics**
 
@@ -79,12 +76,6 @@ Thanks for dropping by to visit this website.
     
     - [Q2 Show and Tell Github Actions CI/CD](https://github.com/STT-Seah/mygitactions)
     
-    - [Q2 Show and Tell Github Pages & Mark Down](https://stt-seah.github.io/Fintech-Learners/)
-
-
-   
+    - [Q2 Show and Tell Github Pages & Mark Down Website](https://stt-seah.github.io/Fintech-Learners/)
     
-
-
-
-
+    - [Q2 Show and Tell Github Pages & Mark Down Github](https://github.com/STT-Seah/Fintech-Learners)
