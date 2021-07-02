@@ -23,7 +23,7 @@ I hope I can build a Fintech non tech learners community and more non tech learn
 Thanks for dropping by to visit this website.
 
 
-  - **Related Articles/ Videos to create Github Pages Website**
+  - **Related Articles/ Videos to create Github Pages Website Q2 Show & Tell**
 
 
     - [Create Your First GitHub Pages Website](https://www.youtube.com/watch?v=BA_c3bGQXlQ)
