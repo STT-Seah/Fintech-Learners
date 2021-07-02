@@ -69,6 +69,10 @@ Thanks for dropping by to visit this website.
     - [1st cs50 Web Assignment](https://cs50xcoursewebsite--sttseah.repl.co/)
     
     - [Q2 Show and Tell Github Actions CI/CD](https://github.com/STT-Seah/mygitactions)
+    
+    - [Q2 Show and Tell Github Page](https://github.com/STT-Seah/Fintech-Learners)
+
+
    
     
 
