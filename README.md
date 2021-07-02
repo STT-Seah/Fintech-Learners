@@ -74,7 +74,7 @@ Thanks for dropping by to visit this website.
     
     - [Q2 Show and Tell Github Actions CI/CD](https://github.com/STT-Seah/mygitactions)
     
-    - [Q2 Show and Tell Github Pages & Mark Down](https://github.com/STT-Seah/Fintech-Learners)
+    - [Q2 Show and Tell Github Pages & Mark Down](https://stt-seah.github.io/Fintech-Learners/)
 
 
    
