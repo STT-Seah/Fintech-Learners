@@ -61,10 +61,14 @@ Thanks for dropping by to visit this website.
     
     - [What is Agile?](https://www.youtube.com/watch?v=fDLuObNgPBM)
     
+    - [Github Actions CI/CD - Everything you need to know to get started](https://www.youtube.com/watch?v=mFFXuXjVgkU)
+    
     **My Portfolio**
     - [Scratch: I LOVE YOU Clicker Game](https://scratch.mit.edu/projects/518970274)
 
     - [1st cs50 Web Assignment](https://cs50xcoursewebsite--sttseah.repl.co/)
+   
+    
 
 
 
