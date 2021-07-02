@@ -59,6 +59,8 @@ Thanks for dropping by to visit this website.
     
     - [Introduction to Scrum - 7 Minutes](https://www.youtube.com/watch?v=9TycLR0TqFA)
     
+    - [What is Agile?](https://www.youtube.com/watch?v=fDLuObNgPBM)
+    
 
 
 
