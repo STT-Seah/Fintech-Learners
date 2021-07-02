@@ -36,7 +36,7 @@ Thanks for dropping by to visit this website.
     - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
    
    
-    - **Videos to create Github Actions CI/CD Q2 Show & Tell**
+     **Videos to create Github Actions CI/CD Q2 Show & Tell**
     
     - [Github Actions CI/CD - Everything you need to know to get started](https://www.youtube.com/watch?v=mFFXuXjVgkU)
     
