@@ -131,7 +131,7 @@ Thanks for dropping by to visit this website.
    
     16.config.yml file will reflect the theme of the design of this website
     
-    17.How to write markdown please the link below
+    17.How to write markdown please see the link below
     
      * [Markdown](https://guides.github.com/features/mastering-markdown/)
        
