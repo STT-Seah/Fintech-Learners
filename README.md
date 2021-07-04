@@ -125,6 +125,6 @@ Thanks for dropping by to visit this website.
     
     14.Delete  index.html file, refresh the webpage and refresh  
     
-    15.Open README.md to edit the content for the webpage by click the pencil button on the top right, scroll down to commit the edited version content of the webpage
+    15.Open README.md to edit the content for the webpage by click the pencil button on the top right, scroll down to click commit changes button for the updated content of the webpage
    
     16.agagg
