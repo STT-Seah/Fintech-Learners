@@ -113,6 +113,18 @@ Thanks for dropping by to visit this website.
     
     8.Go back to the repository and select README.md
     
-    9.OVerwrite that create new file
-
-
+    9.To overwrite create new file
+    
+    10.type <h1>Hello World</h1>, name the file as index.html
+    
+    11.Scroll down type create homepage under the commit new file section,select commit directly to the main branch and click commit new file 
+   
+    12.Refresh the website to see the changes
+    
+    13.Go to repository setting buttons scroll down to the github pages section, click the choose a theme button to choose a theme for the website
+    
+    14.Delete  index.html file, refresh the webpage and refresh  
+    
+    15.Open README.md to edit the content for the webpage by click the pencil button on the top right, scroll down to commit the edited version content of the webpage
+   
+    16.agagg
