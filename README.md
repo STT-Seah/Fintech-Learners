@@ -90,7 +90,9 @@ Thanks for dropping by to visit this website.
     
     - [Q2 Show and Tell Python Exercise Only Github Actions CI/CD](https://github.com/STT-Seah/mygitactions)
     
-    - [Q2 Show and Tell Combine Github Pages & Mark Down & Python Exercise Github Actions CI/CD](https://stt-seah.github.io/Devops/)
+    - [Q2 Show and Tell Combine Github Pages & Mark Down & Python Exercise Github Actions CI/CD Website](https://stt-seah.github.io/Devops/)
+    
+    - [Q2 Show and Tell Combine Github Pages & Mark Down & Python Exercise Github Actions CI/CD Github](https://github.com/STT-Seah/Devops)
     
     
     
