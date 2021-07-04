@@ -93,5 +93,12 @@ Thanks for dropping by to visit this website.
     - [Q2 Show and Tell Combine Github Pages & Mark Down & Python Exercise Github Actions CI/CD](https://stt-seah.github.io/Devops/)
     
     **Instructions to create Github Pages**
+    
+    
+    1.D
+    
+    2.d
+    
+    3.
 
 
