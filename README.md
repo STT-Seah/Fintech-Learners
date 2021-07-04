@@ -123,8 +123,12 @@ Thanks for dropping by to visit this website.
     
     13.Go to repository setting buttons scroll down to the github pages section, click the choose a theme button to choose a theme for the website
     
-    14.Delete  index.html file, refresh the webpage and refresh  
+    14.Delete  index.html file click commit changes button to commit, refresh the webpage 
     
-    15.Open README.md to edit the content for the webpage by click the pencil button on the top right, scroll down to click commit changes button for the updated content of the webpage
+    15.Open README.md is a markdown file to replace your own content for the webpage by click the pencil button on the top right, scroll down to click commit changes button for the updated content of the webpage
    
-    16.agagg
+    16.config.yml file will reflect the theme of the design of this website
+    
+    18. How to write markdown please the link below
+      - [Markdown](https://guides.github.com/features/mastering-markdown/)
+       
