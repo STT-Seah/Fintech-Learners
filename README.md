@@ -117,7 +117,7 @@ Thanks for dropping by to visit this website.
     
     9.To overwrite create new file
     
-    10.Type <h1>Hello World</h1>, name the file as index.html
+    10.Type *<h1>Hello World</h1>*, name the file as index.html
     
     11.Scroll down type create homepage under the commit new file section,select commit directly to the main branch and click commit new file 
    
