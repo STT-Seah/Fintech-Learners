@@ -92,13 +92,27 @@ Thanks for dropping by to visit this website.
     
     - [Q2 Show and Tell Combine Github Pages & Mark Down & Python Exercise Github Actions CI/CD](https://stt-seah.github.io/Devops/)
     
+    
+    
     **Instructions to create Github Pages**
     
     
-    1.D
+    1.Create new repository, click + scroll down select new repository
     
-    2.d
+    2.Create name(any name you like) for the repository
     
-    3.
+    3.Select public
+    
+    4.Select initialize this repository with a README
+    
+    5.Click create repository
+    
+    6.Enable Github pages go to settings scroll down to the github pages section, select the source as main than save
+    
+    7.Scroll down to github pages sections to get the url and the github pages sites is ready instantly
+    
+    8.Go back to the repository and select README.md
+    
+    9.OVerwrite that create new file
 
 
