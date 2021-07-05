@@ -80,9 +80,9 @@ Thanks for dropping by to visit this website.
     
        
     **My Portfolio**
-    - [Scratch: I LOVE YOU Clicker Game](https://scratch.mit.edu/projects/518970274)
+    - [First Scratch Project CS50: I LOVE YOU Clicker Game](https://scratch.mit.edu/projects/518970274)
 
-    - [1st cs50 Web Assignment](https://cs50xcoursewebsite--sttseah.repl.co/)
+    - [First Web Assignment HTML & CSS CS50](https://cs50xcoursewebsite--sttseah.repl.co/)
     
     - [Q2 Show and Tell Github Pages & Mark Down Website](https://stt-seah.github.io/Fintech-Learners/)
     
