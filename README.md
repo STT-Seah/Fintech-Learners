@@ -84,6 +84,12 @@ Thanks for dropping by to visit this website.
 
     - [First Web Assignment HTML & CSS CS50](https://cs50xcoursewebsite--sttseah.repl.co/)
     
+    - [First Group Project Website:NINERS GETAWAY](https://sgusft5team9niners.weebly.com/)  
+    
+    - [First Video for NINERS GETAWAY](https://www.youtube.com/watch?v=mSn-cXZFbT0&t=2s)
+    
+    - [Second Video for NINERS GETAWAY](https://www.youtube.com/watch?v=fVwEf9Z4uTU) 
+    
     - [Q2 Show and Tell Github Pages & Mark Down Website](https://stt-seah.github.io/Fintech-Learners/)
     
     - [Q2 Show and Tell Github Pages & Mark Down Github](https://github.com/STT-Seah/Fintech-Learners)
